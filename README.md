@@ -1,8 +1,7 @@
 <h3 align="center">"🚀 Welcome to the Data-Driven World of Saloni Bhutada!🌌"</h3>
 <p align="left">A data enthusiast with over 3 years of professional experience. I'm passionate about harnessing the power of data to drive strategic decision-making and enhance business operations. Currently pursuing a Master of Science in Data Analytics Engineering at Northeastern University, I am passionate about continually pushing the boundaries of my knowledge. My journey in the world of data analytics and engineering has been a thrilling exploration of the endless possibilities that data presents. I find immense joy in connecting with people from diverse backgrounds and cultures, as it provides me with valuable insights and perspectives that enrich my personal and professional growth. Learning about different experiences and viewpoints enhances my creativity and broadens my horizons.A relentless pursuit of excellence has marked my professional journey. I thrive on solving complex problems and have honed my skills in quick learning and innovative problem-solving.</p>
-(img align="right" alt="Coding" width="400" src="[https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l](https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l)")
+<img align="right" alt="Coding" width="400" src="[https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l](https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonibhutada&label=Profile%20views&color=0e75b6&style=flat" alt="salonibhutada" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonibhutada" alt="salonibhutada" /></a> </p>
 
