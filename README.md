@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Airbnb Data Analysis**
 
-- 🌱 I’m currently learning **Microsoft Azure, AWS, DS**
+- 🌱 I’m currently learning **AWS, DS**
 
 - 📫 How to reach me **salonibhutada97@gmail.com**
 
