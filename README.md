@@ -3,8 +3,6 @@
 
 <img src="Images/programming.gif" alt="Coding" align="right" width="400">
 
-![](Images/programming.gif)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonibhutada&label=Profile%20views&color=0e75b6&style=flat" alt="salonibhutada" /> </p>
 
 - 🔭 I’m currently working on **Airbnb Data Analysis**
