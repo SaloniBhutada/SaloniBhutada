@@ -1,6 +1,7 @@
 <h3 align="center">Hello, Welcome to the Data-Driven World of Saloni Bhutada!</h3>
 <p align="left">A data enthusiast with over 3 years of professional experience. I'm passionate about harnessing the power of data to drive strategic decision-making and enhance business operations. Currently pursuing a Master of Science in Data Analytics Engineering at Northeastern University, I am passionate about continually pushing the boundaries of my knowledge. My journey in the world of data analytics and engineering has been a thrilling exploration of the endless possibilities that data presents. I find immense joy in connecting with people from diverse backgrounds and cultures, as it provides me with valuable insights and perspectives that enrich my personal and professional growth. Learning about different experiences and viewpoints enhances my creativity and broadens my horizons. A relentless pursuit of excellence has marked my professional journey. I thrive on solving complex problems and have honed my skills in quick learning and innovative problem-solving.</p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/SaloniBhutada/SaloniBhutada/blob/main/Images/programming.gif”>
   
 ![](Images/programming.gif)
 
